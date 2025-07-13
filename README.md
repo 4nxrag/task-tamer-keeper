@@ -11,3 +11,12 @@ A simple and responsive **To-Do List** web application that helps users manage t
 - ☑️ Mark tasks as completed
 - 💾 Data saved in `localStorage` (persists even after refreshing)
 - 📱 Responsive design for mobile & desktop
+
+Tech Stack Used 
+
+- HTML5
+- CSS3
+- Javascript
+- Tailwind
+- ShadCN
+- Local storage for database
