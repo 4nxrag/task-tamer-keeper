@@ -1,4 +1,4 @@
-# 📝 To-Do List Web App
+# 📝 Task Tamer Keeper Web App
 
 A simple and responsive **To-Do List** web application that helps users manage their daily tasks. Built using **HTML**, **CSS**, and **JavaScript**, this app supports adding, deleting, and tracking tasks — all stored locally in the browser using `localStorage`.
 
