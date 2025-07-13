@@ -1,11 +1,7 @@
-import TaskList from '@/components/TaskList';
+import WeatherApp from '@/components/WeatherApp';
 
 const Index = () => {
-  return (
-    <div className="min-h-screen bg-gradient-background">
-      <TaskList />
-    </div>
-  );
+  return <WeatherApp />;
 };
 
 export default Index;
